@@ -13,7 +13,7 @@ Select the image with a class of kitty-1 */
 
 /*__write_selector_here__*/ 
 #kitty-2 {
-  position: absolute;
+  position: relative;
   z-index: 2;
   top: 212px;
   left: 369px;
@@ -23,7 +23,7 @@ Select the image with a class of kitty-1 */
 
 /*__write_selector_here__*/ 
  #basket img {
-  position: absolute;
+  position: static;
   z-index: 5;
   top: 291px;
   left: 319px;
