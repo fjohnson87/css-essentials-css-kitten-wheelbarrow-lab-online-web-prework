@@ -25,8 +25,8 @@ Select the image with a class of kitty-1 */
  #basket img {
   position: absolute;
   z-index: 5;
-  top: 291px;
-  left: 319px;
+  top: 1px;
+  left: 1px;
 }
 
 /* Select the image based on it being a sibling that follows immediately after the element with an id of ball (using adjacent sibling selector) */
@@ -35,7 +35,7 @@ Select the image with a class of kitty-1 */
 #ball > img {
   position: absolute;
   z-index: 4;
-  top: 2px;
+  top: 260px;
   left: 455px;
 }
 
