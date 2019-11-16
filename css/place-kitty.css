@@ -33,7 +33,7 @@ Select the image with a class of kitty-1 */
 
 /*__write_selector_here__*/
 #ball > img {
-  position: absolute;
+  position: relative;
   z-index: 4;
   top: 260px;
   left: 455px;
