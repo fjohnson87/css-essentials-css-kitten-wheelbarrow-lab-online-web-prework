@@ -35,8 +35,8 @@ Select the image with a class of kitty-1 */
 #ball > img {
   position: absolute;
   z-index: 4;
-  top: 260px;
-  left: 455px;
+  top: 212px;
+  left: 369px;
 }
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
@@ -45,6 +45,6 @@ Select the image with a class of kitty-1 */
 img [alt="Kitty 5"]  {
   position: absolute;
   z-index: 3;
-  top: 217px;
-  left: 223px;
+  top: 212px;
+  left: 369px;
 }
